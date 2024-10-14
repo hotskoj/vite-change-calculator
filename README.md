@@ -8,8 +8,6 @@ Welcome to the Change Calculator project! This web application, built using Reac
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
