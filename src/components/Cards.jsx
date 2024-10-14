@@ -18,7 +18,7 @@ export default function Cards(props){
             <div className="row my-3 d-flex flex-row justify-content-center">
                 <Card title="Quarters" content={quarters}/>
                 <Card title="Dimes" content={dimes}/>
-                <Card title="Nickles" content={nickles}/>
+                <Card title="Nickels" content={nickles}/>
                 <Card title="Pennies" content={pennies}/>
             </div>
         </div>
