@@ -1,0 +1,37 @@
+body {
+    background-color: #F5F5F5;
+    background-image: url("https://www.transparenttextures.com/patterns/axiom-pattern.png");
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+ }
+
+.main-header {
+    background-color: #198754;
+    color: white;
+    font-weight: 700;
+    padding-left: 55px;
+}
+
+.form-header {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.column-background {
+    background-color: white;
+}
+
+.card-text {
+    font-size: 30px;
+}
+
+.app {
+    height: 100vh;
+}
